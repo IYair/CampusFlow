@@ -11,11 +11,11 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:src="@drawable/login"
-            android:layout_height="80dp"
-            android:layout_marginTop="80dp"/>
+<!--        <ImageView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:src="@drawable/login"-->
+<!--            android:layout_height="80dp"-->
+<!--            android:layout_marginTop="80dp"/>-->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
