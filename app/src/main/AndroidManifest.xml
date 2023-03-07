@@ -13,6 +13,12 @@
         android:theme="@style/Theme.CampusFlow"
         tools:targetApi="31">
         <activity
+            android:name=".AgregarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false">
             <meta-data
